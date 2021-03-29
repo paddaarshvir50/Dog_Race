@@ -1,0 +1,10 @@
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\bin\Debug\Dog_Race.exe.config
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\bin\Debug\Dog_Race.exe
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\bin\Debug\Dog_Race.pdb
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\obj\Debug\Dog_Race.csprojAssemblyReference.cache
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\obj\Debug\Dog_Race.Form1.resources
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\obj\Debug\Dog_Race.Properties.Resources.resources
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\obj\Debug\Dog_Race.csproj.GenerateResource.cache
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\obj\Debug\Dog_Race.csproj.CoreCompileInputs.cache
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\obj\Debug\Dog_Race.exe
+C:\Users\atind\OneDrive\Assignments\Part Time Ass Work\Auckland order\Dog_Race\obj\Debug\Dog_Race.pdb
